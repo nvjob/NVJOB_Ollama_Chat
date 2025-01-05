@@ -1,2 +1,3 @@
 # NVJOB_Ollama_Chat
-NVJOB Ollama Chat
+
+Исходник кода на Python пока недоступен.
